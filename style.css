@@ -1,5 +1,5 @@
 body {
-  color: #666666;				/*default*/
+  color: #00FFFF;				/*default*/
   background: #4bcaff;
 }
 a {
@@ -14,10 +14,10 @@ h2 {
   background-color: #7a8a94;
 }
 .nav .nav-item a {
-  color: #666666;				/*default*/
+  color: #00FFFF;				/*default*/
 }
 #manage-accounts .account-details {
-  color: #666666;				/*default*/
+  color: #00FFFF;				/*default*/
 }
 .header-wrapper {
   box-shadow: 10px 0 20px rgba(0, 0, 0, 0.3);	/*default*/
