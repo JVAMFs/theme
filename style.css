@@ -121,3 +121,7 @@ h2 {
 .ion-ionic:before {
    content: "\f3ea";
  }
+
+.app-ico img {
+ -webkit-filter: invert(100%); 
+}
