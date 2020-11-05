@@ -125,3 +125,6 @@ h2 {
 .app-ico img {
  -webkit-filter: invert(100%); 
 }
+img[src*="notifications/icon.png"] {
+    content: url(dataURI);
+}
