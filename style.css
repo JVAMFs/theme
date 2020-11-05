@@ -91,3 +91,33 @@ h2 {
  .item-divider {
    background-color: #fafafa;
  }
+
+.bar-header {
+    color: #00FFFF;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
+  background: #ffffff;
+  box-shadow: none;
+}
+.bar-side-menu{
+    color: #00FFFF;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
+  background: #ffffff;
+  box-shadow: none;
+}
+
+.ion-side-menu[side="left"]{
+    color: #00FFFF;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
+  background: #ffffff;
+  
+}
+.ion-side-menu[side="right"]{
+    color: #00FFFF;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
+  background: #ffffff;
+  
+}
+
+.ion-ionic:before {
+   content: "\f3ea";
+ }
