@@ -65,3 +65,29 @@ h2 {
   background-color: #7a8a94;
   border-bottom: 1px solid #ffffff;		/*default*/
 }
+
+
+/* Un-comment the following, for initial RTL UI support.
+.scroll-content {
+   direction: rtl; 
+   text-align: right;
+}
+*/
+ 
+ .bar-side-menu {
+   background-color: blue;
+ }
+ 
+ .bar-content {
+   background-color: blue;
+ }
+ 
+ .button.button-positive {
+   border-color: blue;
+   background-color: blue;
+    color: #fff;
+ } 
+ 
+ .item-divider {
+   background-color: #fafafa;
+ }
