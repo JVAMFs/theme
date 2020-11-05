@@ -3,15 +3,15 @@ body {
   background: #4bcaff;
 }
 a {
-  color: #0088cc;				/*default*/
+  color: #00FFFF;				/*default*/
 }
 h1 {
-  color: #4bcaff;
+  color: #00FFFF;
 }
 h2 {
-  color: #ffffff;
+  color: #00FFFF;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background-color: #7a8a94;
+  background-color: #00FFFF;
 }
 .nav .nav-item a {
   color: #00FFFF;				/*default*/
@@ -23,18 +23,18 @@ h2 {
   box-shadow: 10px 0 20px rgba(0, 0, 0, 0.3);	/*default*/
 }
 .header-main {
-  color: #4b565d;
-  background: #4bcaff;
+  color: #00FFFF;
+  background: #00FFFF;
 }
 #page-title {
   text-shadow: none;
 }
 #panel-right,
 #panel-center {
-  background: #ffffff;				/*default*/
+  background: #00FFFF;				/*default*/
 }
 .user-menu {
-  background: #4bcaff;
+  background: #00FFFF;
 }
 .user-menu header {
   background: #4b565d url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU***);
@@ -46,7 +46,7 @@ h2 {
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
 }
 .user-menu h2 {
-  color: #4b565d;
+  color: #00FFFF;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
   background: #ffffff;
   box-shadow: none;
