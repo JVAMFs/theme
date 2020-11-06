@@ -1,43 +1,44 @@
 body {
-  color: #00FFFF;				/*default*/
-  background: #4bcaff;
-}
+  //color: #666666;				/*default*/
+   color: #00FFFF;				
+   background: #4bcaff;
+ }
 a {
-  color: #00FFFF;				/*default*/
+  color: #0088cc;				/*default*/
 }
 h1 {
-  color: #00FFFF;
+  color: #4bcaff;
 }
 h2 {
-  color: #00FFFF;
+  color: #ffffff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background-color: #00FFFF;
+  background-color: #7a8a94;
 }
 .nav .nav-item a {
-  color: #00FFFF;				/*default*/
+  color: #666666;				/*default*/
 }
 #manage-accounts .account-details {
-  color: #00FFFF;				/*default*/
+  color: #666666;				/*default*/
 }
 .header-wrapper {
   box-shadow: 10px 0 20px rgba(0, 0, 0, 0.3);	/*default*/
 }
 .header-main {
-  color: #00FFFF;
-  background: #00FFFF;
+  color: #4b565d;
+  background: #4bcaff;
 }
 #page-title {
   text-shadow: none;
 }
 #panel-right,
 #panel-center {
-  background: #00FFFF;				/*default*/
+  background: #ffffff;				/*default*/
 }
 .user-menu {
-  background: #00FFFF;
+  background: #00FFFF;				
 }
 .user-menu header {
-  background: #4b565d url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU***);
+  background: #00FFFF; url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU***);
   border-bottom: 5px solid #ffffff;
   box-shadow: 10px 0 20px rgba(0, 0, 0, 0.3);
 }
@@ -46,7 +47,7 @@ h2 {
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
 }
 .user-menu h2 {
-  color: #00FFFF;
+  color: #00FFFF;				
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
   background: #ffffff;
   box-shadow: none;
@@ -64,67 +65,4 @@ h2 {
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
   background-color: #7a8a94;
   border-bottom: 1px solid #ffffff;		/*default*/
-}
-
-
-/* Un-comment the following, for initial RTL UI support.
-.scroll-content {
-   direction: rtl; 
-   text-align: right;
-}
-*/
- 
- .bar-side-menu {
-   background-color: blue;
- }
- 
- .bar-content {
-   background-color: blue;
- }
- 
- .button.button-positive {
-   border-color: blue;
-   background-color: blue;
-    color: #fff;
- } 
- 
- .item-divider {
-   background-color: #fafafa;
- }
-
-.bar-header {
-    color: #00FFFF;
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background: #ffffff;
-  box-shadow: none;
-}
-.bar-side-menu{
-    color: #00FFFF;
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background: #ffffff;
-  box-shadow: none;
-}
-
-.ion-side-menu[side="left"]{
-    color: #00FFFF;
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background: #ffffff;
-  
-}
-.ion-side-menu[side="right"]{
-    color: #00FFFF;
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);	/*default*/
-  background: #ffffff;
-  
-}
-
-.ion-ionic:before {
-   content: "\f3ea";
- }
-
-.app-ico img {
- -webkit-filter: invert(100%); 
-}
-img[src*="notifications/icon.png"] {
-    content: url(dataURI);
 }
